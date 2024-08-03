@@ -1,0 +1,25 @@
+{
+  "name": "free-sentences",
+  "version": "1.0.0",
+  "description": "generates lorem sentences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphawhiskey03/free-sentences.git"
+  },
+  "keywords": [
+    "sentences"
+  ],
+  "author": "vignesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alphawhiskey03/free-sentences/issues"
+  },
+  "homepage": "https://github.com/alphawhiskey03/free-sentences#readme",
+  "dependencies": {
+    "lorem-ipsum": "^2.0.8"
+  }
+}
